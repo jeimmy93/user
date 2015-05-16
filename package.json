@@ -1,0 +1,19 @@
+{
+  "name": "usuarios",
+  "version": "1.0.0",
+  "description": "directorio de usuarios",
+  "main": "user.js",
+  "dependencies": {
+    "body-parser": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "jeimmy",
+  "license": "ISC"
+}
